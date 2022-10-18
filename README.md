@@ -1,7 +1,9 @@
 ```csharp
 string[] tentrun = new string[] { 
-  "Desktop : C#",
-  "Web : ASP.net, php, TypeScript",
+  "Desktop : WPF, WinForms",
+  "Web : ASP.net, Razor",
+  "Mobile : Unity, MaUI"
+  "Language : C#, PHP, TypeScript",
   "Tools : VS, Github", 
   "Type : Backend development", 
   "Interest : Software Development, Game Hacking, Creating Electronics",
