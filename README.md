@@ -10,3 +10,4 @@ string[] tentrun = new string[] {
   "Hobbies : Anime, Gaming, Technologies, Electronics"
 };
 ```
+[![wakatime](https://wakatime.com/badge/user/858b224a-bb38-400c-a20d-756f327c8d83.svg)](https://wakatime.com/@858b224a-bb38-400c-a20d-756f327c8d83)
