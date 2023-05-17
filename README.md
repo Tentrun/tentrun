@@ -8,12 +8,12 @@ string[] tentrun = new string[] {
   "Web-frontend : React, Angular",
   "ORM : Entity Framework Core",
   "Tests : XUnit",
-  "DataBases: PostgreSQL, MSSQL"
-  "Mobile : Unity, MaUI"
+  "DataBases: PostgreSQL, MSSQL",
+  "Mobile : Unity, MaUI",
   "Language : C#, JavaScript, TypeScript",
   "Tools : Rider , VS, Github", 
   "Type : Fullstack development",
-  "Development experience : 2.5 years"
+  "Development experience : 2.5 years",
   "Interest : Software Development, Game Hacking, Creating Electronics",
   "Hobbies : Anime, Gaming, Technologies, Electronics"
 };
