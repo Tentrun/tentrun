@@ -25,7 +25,6 @@ My contacts for business proposals
 ```csharp
 string[] contacts = new string[] {
 "Telegram : @Tentrun",
-"VK : vk.com/tentrun",
 "Mail : tentrun@gmail.com"
 };
 ```
