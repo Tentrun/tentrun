@@ -1,30 +1,31 @@
-# Hello there, I'm Alexandr
-### DotNet Fullstack developer from Russia (Moscow)
+# Tentrun
 
-```csharp
-string[] tentrun = new string[] { 
-  "Desktop : WPF, WinForms",
-  "Web-backend : ASP.net",
-  "Web-frontend : React, Angular",
-  "ORM : Entity Framework Core",
-  "Tests : XUnit",
-  "DataBases: PostgreSQL, MSSQL",
-  "Mobile : Unity, MaUI",
-  "Language : C#, JavaScript, TypeScript",
-  "Tools : Rider , VS, Github", 
-  "Type : Fullstack development",
-  "Development experience : 2.5 years",
-  "Interest : Software Development, Game Hacking, Creating Electronics",
-  "Hobbies : Anime, Gaming, Technologies, Electronics"
-};
-```
-My WakaTime --- > [![wakatime](https://wakatime.com/badge/user/858b224a-bb38-400c-a20d-756f327c8d83.svg)](https://wakatime.com/@858b224a-bb38-400c-a20d-756f327c8d83)
+## RU
 
+Я разработчик программного обеспечения с опытом более пяти лет. Начинал с интеграций (синхронизация билетов, внутренняя автоматизация, системы питания на заводах), позже работал над высоконадежным интеграционным шлюзом для одного из топ‑5 банков (обмен с гос. сервисами ЕСИА / ЕБС и внутренними системами). Сейчас руковожу разработкой в Musbooking (маркетплейс творческих услуг): упрощаем архитектуру, стабилизируем интеграции, повышаем прозрачность и скорость поставки изменений.
 
-My contacts for business proposals
-```csharp
-string[] contacts = new string[] {
-"Telegram : @Tentrun",
-"Mail : tentrun@gmail.com"
-};
-```
+### Что делал
+
+- Интеграционный шлюз для крупного банка: проектирование границ, адаптеры, безопасный обмен, трассировка, устойчивость при частичных сбоях.
+- Синхронизация билетов Kassir.ru во внутреннюю CRM спортивного клуба: нормализация данных, дедупликация, возвраты и отмены, сочетание периодических и событийных обновлений.
+- Система управления питанием сотрудников для производственных площадок: меню, лимиты, категории, учёт заказов, интеграция с пропускной / ERP.
+- Текущая работа (Team Lead) : постановка задач на разработку функционала, развитие сервисов маркетплейса, снижение технического шума, выравнивание подходов к событиям и интеграциям.
+
+### Технологии
+
+C#, .NET 8 (ASP.NET Core), EF Core, gRPC  
+PostgreSQL, Redis  
+RabbitMQ (асинхронные потоки / события)  
+Docker, Kubernetes  
+ELK (логирование и наблюдаемость)  
+GitLab CI  
+Подходы: DDD, событийная модель, CQRS, модульные границы, явные контракты, идемпотентная обработка
+
+### Сейчас фокус
+
+Устойчивые интеграции, упрощение доменных границ, наблюдаемость как инструмент решения проблем, снижение накладных расходов на сопровождение.
+
+### Контакты
+
+Telegram: https://t.me/tentrun  
+Email: tentrun@gmail.com
